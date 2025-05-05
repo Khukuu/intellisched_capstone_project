@@ -285,12 +285,12 @@ html, body {
 
 
 #top-container {
-  padding: 20px; /* Add padding around the container */
+  padding: 20px; /* Add padding around the container */;
   border-radius: 5px; /* Rounded corners */
   height: 300px; /* Fixed height */
   display: flex; /* Enable Flexbox for the container */
   justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
+  align-items: center; /* Center content vertically *
 }
 
 #top-container .row {
@@ -387,4 +387,8 @@ html, body {
   color: #fff !important;
   border: 2px solid grey !important;
   cursor: not-allowed;
+}
+
+*{
+  outline: 1px solid red;
 }
