@@ -290,7 +290,7 @@ html, body {
   height: 300px; /* Fixed height */
   display: flex; /* Enable Flexbox for the container */
   justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically *
+  align-items: center; /* Center content vertically */
 }
 
 #top-container .row {
